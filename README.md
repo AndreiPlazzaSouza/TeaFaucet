@@ -1,5 +1,5 @@
 
-# TeaFaucet
+# Tea Faucet
 
 **TeaFaucet** is a Python script to automate claiming from crypto faucets, such as [https://faucet-assam.tea.xyz/](https://faucet-assam.tea.xyz/).  
 It leverages browser automation to interact with faucet web pages, enabling scheduled and unattended claims.
